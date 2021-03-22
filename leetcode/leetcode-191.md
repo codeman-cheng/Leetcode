@@ -1,4 +1,4 @@
-# Leetcode-191  位1的个数
+# leetcode-191  位1的个数
 
 > 2021/3/33
 
@@ -53,7 +53,7 @@ public:
 >
 > 空间复杂度:   O(1)
 
-![leetcode-191](./assets/leetcode-191.png)
+![leetcode-191](../assets/leetcode-191.png)
 
 ### 收获
 
